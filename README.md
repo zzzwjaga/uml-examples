@@ -8,6 +8,7 @@
 - 📌 Class Diagram
 - 📌 Sequence Diagram
 - 📌 Activity Diagram
+- 📌 State Diagram
 
 ## Инструмент
 
